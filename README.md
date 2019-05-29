@@ -1,0 +1,4 @@
+# Project: Understanding Depression on Twitter Using Word Embeddings
+______________________________________________________________________________________________________
+How do people discuss mental health on social media? Can we train a computer program to recognize differences between discussions of depression and other topics? Can an algorithm predict that someone is depressed from their tweets alone? In this project, we collect tweets referencing “depression” and “depressed” over a seven year period, and train word embeddings to characterize linguistic structures within the corpus. We find that neural word embeddings capture the contextual differences between “depressed” and “healthy” language. We also looked at how context around words may have changed over time to get deeper understanding of contextual shifts in the word usage. The results suggest social media could serve as a valuable screening tool for mental health.
+
